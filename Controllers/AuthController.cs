@@ -25,7 +25,9 @@ namespace AuthenticationService.Controllers
             users = new List<User>() {
             new User(){Userid=1,Username="srinu",Password="nani"},
             new User(){Userid=2,Username="srinu",Password="kodati"},
-            new User(){Userid=3,Username="hs",Password="1120"}
+            new User(){Userid=3,Username="hs",Password="1120"},
+            new User(){Userid=4,Username="hs",Password="1120"}
+
 
 
 
